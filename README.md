@@ -61,5 +61,14 @@
         #Op ensql Netweaver通过数据库接口将sql语句自动转换Netweaver服务器连接的数据库提供商的原生sql语句
      ###调试简单：
         #直接在源码上设置断点，java服务器端调式需要在jVM虚拟机上加上debug参数启动服务器，
-3.个人学习计划
-  (1)
+3.个人半年学习计划
+  (1)首先不管是学什么，如果有学习，就要养成知识积累、分享的习惯，之前写的不够完善，但是需要一直坚持去书写和自己梳理自己所学习的内容。
+     内容地址为：https://github.com/Zwxqaq
+  (2)其次(三个月)，之前是学习java的，在接下来的1个月，先进一步学习搭建java web项目，综合web开发相关技术，tomcat、servlet、jsp、ajax、boostrap等      对web项目有进一步的熟悉和理解，随后1-2个月进行框架struts2 hibernate spring springmvc mybaits ibaits 学习，再后对于java微框架spring boot相      关项目的实践学习
+  (3)再次(后三个月)，之后的在对java整体有理解的时候，对python想进行进一步的学习。进行python网络编程学习，python基础及语法的复习(一个月)，随后对        python框架flask,tornado以及django进行学习开发(1-2)个月
+  (4)接着，在对一门静态语言和动态语言有进一步的理解时，想对爬虫、大数据等知识进一步学习，之前接触过一些基础的python爬虫和大数据elasticsearch平台的
+     搭建和学习，毕设也做过python下的图像识别系统，使用google mobilenet模型，对传入的黄色、暴力图像进行处理，通过mobilenet模型训练以后用训练好的
+     模型进行图像信息的识别，所以如果自己有能力接触人工智能领域的话也会进一步考虑
+  (5)最后，今天通过以上和资料对sap系统有了理解，明白了sap功能的广泛、设计模块的多样、开发的严谨，也对sap下之前仅有的abap进行了一定了解，在配置          eclipse+导入sap相关abap资源时，遇到困难，随后成功配置，但是寻找很久以后，发现难以找到sap相关软件，最终在csdn上下载sap相关客户端，由于没有
+     sap相关系统，sap gui logon一直不成功，导致eclipse abap项目无法创建，如果有机会进一步学习sap及abap，自然会对学习计划作出相应的改变，如果依旧
+     使用java相关，也会根据上述学习计划，进行进一步学习和实践。
