@@ -1,4 +1,4 @@
-# MyIdea
+# My Plan
 1.关于SAP
   (1)经过自己的相关查询，SAP可以理解为Systems Application And Products In Data Processing
   (2)德国开发企业管理系列软件
